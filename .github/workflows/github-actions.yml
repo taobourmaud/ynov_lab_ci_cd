@@ -33,4 +33,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: taobourmaud/ynov_lab_ci_cd
+          tags: taobrmd/lab_ci_cd
